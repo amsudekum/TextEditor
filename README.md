@@ -12,3 +12,12 @@ From the command line:
 - From here, go to your local port and the application will be running for you. 
 
 ## Usage
+![Screenshot](Assets/Ashleu.png)
+
+## Credits 
+N/A
+
+## Questions
+Any questions about this project? You can reach me here:
+* Email: amsudekum@gmail.com
+* GitHub: amsudekum https://github.com/amsudekum
